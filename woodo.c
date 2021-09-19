@@ -5,10 +5,10 @@
 #define SEQLEN 341
 #define CHARS 19
 
-/*  woodo.c                          */
-/*  A weird tree!                    */
-/*  Copyright 2021 johpet32          */
-/*  License: GPL version 3 or later  */
+/*  woodo.c                                                           */
+/*  A weird tree!                                                     */
+/*  Copyright 2021 johpet32                                           */
+/*  License: GPL version 3 or later (see LICENCE in the project root) */
 
 void woodoprint(void) {
     char chars[CHARS] = " _/`\\()~.-|^\"o\'=:*\n";
